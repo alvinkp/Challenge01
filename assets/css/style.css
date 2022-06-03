@@ -51,7 +51,7 @@ header nav ul li {
 }
 
 /* Main Styling */
-main {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
