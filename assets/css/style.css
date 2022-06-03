@@ -50,8 +50,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* Main Styling */
-.hero {
+/* Section Styling */
+section {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -71,8 +71,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* Section Styling */
-section{
+/* Main Styling */
+main{
     width: 75%;
     display: inline-block;
     margin-left: 20px;
