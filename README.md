@@ -47,6 +47,14 @@ AS A marketing agency I WANT a codebase that follows accessibility standards SO 
 
 ---
 
+## 🎯 <span style="color:LightGreen">Deployment</span>
+
+Website: https://alvinkp.github.io/Challenge01/#search-engine-optimization
+
+Repository: https://github.com/alvinkp/Challenge01
+
+---
+
 ## ✉️ <span style="color:Chartreuse">Authors</span> 
 
 - [@alvinkp](https://www.github.com/alvinkp)
