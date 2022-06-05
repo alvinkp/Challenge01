@@ -55,7 +55,7 @@ Repository: https://github.com/alvinkp/Challenge01
 
 ---
 
-## ✉️ <span style="color:Chartreuse">Authors</span> 
+## ✉️ <span style="color:LightGreen">Authors</span> 
 
 - [@alvinkp](https://www.github.com/alvinkp)
 

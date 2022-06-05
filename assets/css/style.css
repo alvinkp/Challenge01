@@ -8,6 +8,7 @@
 /* Body Styling */
 body {
     background-color: #d9dcd6;
+    color:#ffffff;
 }
 
 /* Link Styling */
@@ -26,7 +27,6 @@ header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
 }
 
 header h1 {
@@ -52,7 +52,7 @@ header nav ul li {
 }
 
 /* Section Styling */
-section {
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -79,8 +79,8 @@ main{
     margin-left: 20px;
 }
 
-/* Article Styling */
-article{
+/* section Styling */
+section{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -89,16 +89,17 @@ article{
     color: #ffffff;
 }
 
-article img {
+section img {
     max-height: 200px;
 }
 
-article h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 /* Aside Styling */
+/* Changed color of background to match section styling due it not being WCAG compliant (not enough contrast) */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -110,18 +111,17 @@ aside {
     background-color: #0072bb;
 }
 
-aside summary{
+aside section{
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
-aside summary img{
+aside section img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-aside summary h3{
+aside section h3{
     margin-bottom: 10px;
     text-align: center;
 }
@@ -132,6 +132,7 @@ footer {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    color:black;
 }
 
 footer h4 {
