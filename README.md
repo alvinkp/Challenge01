@@ -1,5 +1,5 @@
 
-# <span style="color:LightGreen">Challenge 01</span>
+# <span style="color:LightGreen">Horiseon Social Solutions Inc Refactor</span>
 
 This was the first challenge assignment for our UPENN Bootcamp. We were tasked with taking the client's existing codebase and refactoring it to meet modern accessibility standards which would boost its SEO ranking. (See **User Story** and **Acceptable Criteria** sections below).
 
@@ -49,9 +49,9 @@ AS A marketing agency I WANT a codebase that follows accessibility standards SO 
 
 ## 🎯 <span style="color:LightGreen">Deployment</span>
 
-Website: https://alvinkp.github.io/Challenge01/#search-engine-optimization
+Website: https://alvinkp.github.io/Horiseon_Social_Solutions_Inc_Refactor/
 
-Repository: https://github.com/alvinkp/Challenge01
+Repository: https://github.com/alvinkp/Horiseon_Social_Solutions_Inc_Refactor
 
 ---
 
